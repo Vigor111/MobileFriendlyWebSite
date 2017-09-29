@@ -1,4 +1,4 @@
-## 3pak
+## Mobile Friendly
 
 ### Setup
 
